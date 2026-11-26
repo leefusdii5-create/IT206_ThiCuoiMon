@@ -48,6 +48,15 @@ TN2: Đặt 3 vé phim 3D ngày 01/01/2027 ạ. Một người hay chóng mặt,
 
 TN3: Phòng Gold dịp Noel còn chỗ không ạ? Nhóm em 4 người lớn, một bạn đi xe lăn, ngồi ghế đôi.
 
+ví dụ:
+<tin_nhan> Phòng Gold còn ghế không ạ </tin_nhan>
+<tin_nhan> em xem 1 mình </tin_nhan>
+<tin_nhan> hôm nào cũng được </tin_nhan>
+
+Giọng điệu: đơn giản, văn phong chuyên nghiệp
+
+Yêu cầu : chỉ trả về JSON, không giải thích, không chào hỏi
+
 
 ```
 
